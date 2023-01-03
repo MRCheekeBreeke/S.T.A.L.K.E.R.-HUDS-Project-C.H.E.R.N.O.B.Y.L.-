@@ -41,3 +41,9 @@ Secondly, you should take into account that the addon introduces its own variabl
   
 - Serverside variables
   - So far they are missing...
+  
+  ---
+<h2 align="left"> Links </h2>
+
+| [[My YouTube channel]](https://www.youtube.com/@mr.cheekebreeke)
+ |-| [[My Steam]](https://steamcommunity.com/id/MRCheekeBreeke/) |
